@@ -40,3 +40,6 @@ Tujuan membuat tabel fakta dan dimensi :
 Tabel ini akan menjadi tabel utama kita ketika membuat visualisasi didalam Metabase.
 ## Metabase
 Jika sudah berhasil menjalankan Metabase, kita bisa menambahkan database dengan cara menghubungkanya dengan minilake dengan menggunakan query SparkSQL, port 10000, dan nama database. jika berhasil seharusnya database akan muncul bersama dengan semua tabel nya.
+### Dashboard
+Berikut adalah dashboard yang sudah saya buat secara langsung di Metabase
+![Pratinjau Dashboard Power BI](assets/dashboard-preview.png)
